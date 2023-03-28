@@ -7,7 +7,7 @@ setup(
     license='MIT',
     packages=['s3datacleaner'],
     install_requires=[
-      'pandas==1.5.3',
+      'pandas==1.3.5',
       'boto3==1.26.98'
     ]
 )
